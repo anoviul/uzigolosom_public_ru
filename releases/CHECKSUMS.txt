@@ -8,6 +8,7 @@ e8b02b3f37a1ba24e2b29229ff40c4565d2351e1f3ceab2771a7a7012cb08990  releases/andro
 671d335b28ce06ea46e6f55af95f81dcd09ee764011a1932272b8f251fb74051  releases/android/uzigolosom-1.0.13.apk
 8062efe15053bdf9fd8d1ba39613095bcde8c4aa183b22e671fa7efe91df711d  releases/android/uzigolosom-1.0.14.apk
 c506894d26911389b1741377f51690dafdc29ba332973498761c3740a5514910  releases/android/uzigolosom-1.0.15.apk
+2f22219bbc9f9512654d778e3cf50bc79c1eaa718d40b6e9f9feeb8dca46fcfd  releases/android/uzigolosom-1.0.16.apk
 69d33f98577400868cc5747a3cd695bf8549bbb02079c8daa2637b3462c30ed7  releases/android/uzigolosom-1.0.2.apk
 708129a24d25b3277c10ed9c012c821faa72920e8bfe4c72ffe1d2003f81e68c  releases/android/uzigolosom-1.0.3.apk
 7161f3f27506fcd60100519d878e2b87b4021b8efb5340224d0225e16941a685  releases/android/uzigolosom-1.0.4.apk
