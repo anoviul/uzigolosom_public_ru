@@ -5,10 +5,10 @@
 
 В этом репозитории только дистрибутивы (APK, контрольные суммы, описание версий). Исходного кода здесь нет.
 
-## Последняя версия: 1.0.10
+## Последняя версия: 1.0.11
 
-- Скачать APK: [uzigolosom-1.0.10.apk](https://github.com/anoviul/uzigolosom_public_ru/raw/main/releases/android/uzigolosom-1.0.10.apk)
-- SHA-256: `7f89e18424bf99341fbf4812d10635d63b07af7b9b45682d76375217f54937db`
+- Скачать APK: [uzigolosom-1.0.11.apk](https://github.com/anoviul/uzigolosom_public_ru/raw/main/releases/android/uzigolosom-1.0.11.apk)
+- SHA-256: `860231b5ae8c90d5cc9ba110eb96daa9a0adef629a18709eba9f0d5f78dc78f1`
 - Всегда последняя версия: https://app.uzigolosom.ru/download/android
 
 ![QR: скачать APK УЗИ голосом](releases/android/qr-uzigolosom.png)
@@ -23,6 +23,11 @@
 Приложение само проверяет новые версии и предлагает их скачать. Файл можно сверить по контрольной сумме SHA-256 из `releases/CHECKSUMS.txt`.
 
 ## Что нового
+
+### 1.0.11 - 2026-09-16
+
+- Черновик с заполненными параметрами не удаляется при повторном открытии.
+- Своя строка в новом разделе видна и без сети.
 
 ### 1.0.10 - 2026-09-15
 
