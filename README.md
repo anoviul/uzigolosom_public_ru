@@ -5,10 +5,10 @@
 
 В этом репозитории только дистрибутивы (APK, контрольные суммы, описание версий). Исходного кода здесь нет.
 
-## Последняя версия: 1.0.11
+## Последняя версия: 1.0.12
 
-- Скачать APK: [uzigolosom-1.0.11.apk](https://github.com/anoviul/uzigolosom_public_ru/raw/main/releases/android/uzigolosom-1.0.11.apk)
-- SHA-256: `860231b5ae8c90d5cc9ba110eb96daa9a0adef629a18709eba9f0d5f78dc78f1`
+- Скачать APK: [uzigolosom-1.0.12.apk](https://github.com/anoviul/uzigolosom_public_ru/raw/main/releases/android/uzigolosom-1.0.12.apk)
+- SHA-256: `e8b02b3f37a1ba24e2b29229ff40c4565d2351e1f3ceab2771a7a7012cb08990`
 - Всегда последняя версия: https://app.uzigolosom.ru/download/android
 
 ![QR: скачать APK УЗИ голосом](releases/android/qr-uzigolosom.png)
@@ -23,6 +23,10 @@
 Приложение само проверяет новые версии и предлагает их скачать. Файл можно сверить по контрольной сумме SHA-256 из `releases/CHECKSUMS.txt`.
 
 ## Что нового
+
+### 1.0.12 - 2026-09-16
+
+- Черновик с выбранным видом УЗИ или справочником сохраняется при повторном открытии.
 
 ### 1.0.11 - 2026-09-16
 
