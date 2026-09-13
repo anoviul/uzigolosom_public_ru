@@ -5,10 +5,10 @@
 
 В этом репозитории только дистрибутивы (APK, контрольные суммы, описание версий). Исходного кода здесь нет.
 
-## Последняя версия: 1.0.12
+## Последняя версия: 1.0.13
 
-- Скачать APK: [uzigolosom-1.0.12.apk](https://github.com/anoviul/uzigolosom_public_ru/raw/main/releases/android/uzigolosom-1.0.12.apk)
-- SHA-256: `e8b02b3f37a1ba24e2b29229ff40c4565d2351e1f3ceab2771a7a7012cb08990`
+- Скачать APK: [uzigolosom-1.0.13.apk](https://github.com/anoviul/uzigolosom_public_ru/raw/main/releases/android/uzigolosom-1.0.13.apk)
+- SHA-256: `671d335b28ce06ea46e6f55af95f81dcd09ee764011a1932272b8f251fb74051`
 - Всегда последняя версия: https://app.uzigolosom.ru/download/android
 
 ![QR: скачать APK УЗИ голосом](releases/android/qr-uzigolosom.png)
@@ -23,6 +23,10 @@
 Приложение само проверяет новые версии и предлагает их скачать. Файл можно сверить по контрольной сумме SHA-256 из `releases/CHECKSUMS.txt`.
 
 ## Что нового
+
+### 1.0.13 - 2026-09-16
+
+- Печать протокола из браузера: ФИО пациента вписывается перед печатью и на сервер не уходит.
 
 ### 1.0.12 - 2026-09-16
 
