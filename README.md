@@ -9,6 +9,7 @@
 
 Приложение опубликовано в RuStore: https://www.rustore.ru/catalog/app/ru.uzigolosom.app
 Магазин сам присылает обновления. Ниже - тот же выпуск файлом для тех, у кого RuStore нет.
+Владельцам iPhone приложение не нужно: в кабинете https://app.uzigolosom.ru есть веб-диктофон (Новая запись → Диктофон УЗИ), он работает в Safari.
 
 ![QR: УЗИ голосом в RuStore](releases/android/qr-rustore.png)
 
