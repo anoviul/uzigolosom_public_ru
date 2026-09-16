@@ -5,6 +5,13 @@
 
 В этом репозитории только дистрибутивы (APK, контрольные суммы, описание версий). Исходного кода здесь нет.
 
+## Установить из RuStore
+
+Приложение опубликовано в RuStore: https://www.rustore.ru/catalog/app/ru.uzigolosom.app
+Магазин сам присылает обновления. Ниже - тот же выпуск файлом для тех, у кого RuStore нет.
+
+![QR: УЗИ голосом в RuStore](releases/android/qr-rustore.png)
+
 ## Последняя версия: 1.0.16
 
 - Скачать APK: [uzigolosom-1.0.16.apk](https://github.com/anoviul/uzigolosom_public_ru/raw/main/releases/android/uzigolosom-1.0.16.apk)
