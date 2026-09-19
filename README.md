@@ -13,10 +13,10 @@
 
 ![QR: УЗИ голосом в RuStore](releases/android/qr-rustore.png)
 
-## Последняя версия: 1.0.21
+## Последняя версия: 1.0.22
 
-- Скачать APK: [uzigolosom-1.0.21.apk](https://github.com/anoviul/uzigolosom_public_ru/raw/main/releases/android/uzigolosom-1.0.21.apk)
-- SHA-256: `5df97f07047b574dab33e8374c01680215f02bd5003023e5a6a15e9dde2d9a1c`
+- Скачать APK: [uzigolosom-1.0.22.apk](https://github.com/anoviul/uzigolosom_public_ru/raw/main/releases/android/uzigolosom-1.0.22.apk)
+- SHA-256: `1bf897ef072dccc638de2ab3435677789bafd10a9a4d2cf4c92bed25421487b8`
 - Всегда последняя версия: https://app.uzigolosom.ru/download/android
 
 ![QR: скачать APK УЗИ голосом](releases/android/qr-uzigolosom.png)
@@ -31,6 +31,10 @@
 Приложение само проверяет новые версии и предлагает их скачать. Файл можно сверить по контрольной сумме SHA-256 из `releases/CHECKSUMS.txt`.
 
 ## Что нового
+
+### 1.0.22 - 2026-09-19
+
+- Приложение сообщает разработчику о сбоях, чтобы поломки чинились быстрее: уходит только техническая обстановка, без имен, почты и содержимого записей. Отправку можно выключить в профиле кабинета.
 
 ### 1.0.21 - 2026-09-19
 
