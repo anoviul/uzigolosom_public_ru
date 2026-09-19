@@ -13,10 +13,10 @@
 
 ![QR: УЗИ голосом в RuStore](releases/android/qr-rustore.png)
 
-## Последняя версия: 1.0.18
+## Последняя версия: 1.0.19
 
-- Скачать APK: [uzigolosom-1.0.18.apk](https://github.com/anoviul/uzigolosom_public_ru/raw/main/releases/android/uzigolosom-1.0.18.apk)
-- SHA-256: `0787c5cfad6a23d98307bd6b170e7b0961d0bfac531289467ebb8d223f114dac`
+- Скачать APK: [uzigolosom-1.0.19.apk](https://github.com/anoviul/uzigolosom_public_ru/raw/main/releases/android/uzigolosom-1.0.19.apk)
+- SHA-256: `495ae229ffdea92adb253e1b6b115f09bff0ed13f6cf0bdfc567b7fb7f7da13c`
 - Всегда последняя версия: https://app.uzigolosom.ru/download/android
 
 ![QR: скачать APK УЗИ голосом](releases/android/qr-uzigolosom.png)
@@ -31,6 +31,10 @@
 Приложение само проверяет новые версии и предлагает их скачать. Файл можно сверить по контрольной сумме SHA-256 из `releases/CHECKSUMS.txt`.
 
 ## Что нового
+
+### 1.0.19 - 2026-09-19
+
+- На балансе видно, на сколько примерно исследований хватит минут.
 
 ### 1.0.18 - 2026-09-18
 
