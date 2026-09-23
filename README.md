@@ -13,10 +13,10 @@
 
 ![QR: УЗИ голосом в RuStore](releases/android/qr-rustore.png)
 
-## Последняя версия: 1.0.22
+## Последняя версия: 1.0.23
 
-- Скачать APK: [uzigolosom-1.0.22.apk](https://github.com/anoviul/uzigolosom_public_ru/raw/main/releases/android/uzigolosom-1.0.22.apk)
-- SHA-256: `1bf897ef072dccc638de2ab3435677789bafd10a9a4d2cf4c92bed25421487b8`
+- Скачать APK: [uzigolosom-1.0.23.apk](https://github.com/anoviul/uzigolosom_public_ru/raw/main/releases/android/uzigolosom-1.0.23.apk)
+- SHA-256: `c6fb8b173a423081f05908449f10b1ea586c4332db32a2f4d6bd866f6582bbec`
 - Всегда последняя версия: https://app.uzigolosom.ru/download/android
 
 ![QR: скачать APK УЗИ голосом](releases/android/qr-uzigolosom.png)
@@ -31,6 +31,13 @@
 Приложение само проверяет новые версии и предлагает их скачать. Файл можно сверить по контрольной сумме SHA-256 из `releases/CHECKSUMS.txt`.
 
 ## Что нового
+
+### 1.0.23 - 2026-09-23
+
+- Запись можно сохранить на устройство: кнопка рядом с каждым дублем.
+- Перед отправкой очень короткой записи приложение переспрашивает. Если микрофон не слышит голос, это видно прямо во время записи.
+- Если продиктовано другое исследование, чем выбрано, приложение подскажет и даст переключить без списания протокола.
+- Исправлены ошибки.
 
 ### 1.0.22 - 2026-09-19
 
