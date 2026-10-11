@@ -13,10 +13,10 @@
 
 ![QR: УЗИ голосом в RuStore](releases/android/qr-rustore.png)
 
-## Последняя версия: 1.0.23
+## Последняя версия: 1.0.26
 
-- Скачать APK: [uzigolosom-1.0.23.apk](https://github.com/anoviul/uzigolosom_public_ru/raw/main/releases/android/uzigolosom-1.0.23.apk)
-- SHA-256: `c6fb8b173a423081f05908449f10b1ea586c4332db32a2f4d6bd866f6582bbec`
+- Скачать APK: [uzigolosom-1.0.26.apk](https://github.com/anoviul/uzigolosom_public_ru/raw/main/releases/android/uzigolosom-1.0.26.apk)
+- SHA-256: `31639ab40a4956561779b68060bc4b8f5484f75adc6f96c3cb0a0f148e0cc869`
 - Всегда последняя версия: https://app.uzigolosom.ru/download/android
 
 ![QR: скачать APK УЗИ голосом](releases/android/qr-uzigolosom.png)
@@ -31,6 +31,12 @@
 Приложение само проверяет новые версии и предлагает их скачать. Файл можно сверить по контрольной сумме SHA-256 из `releases/CHECKSUMS.txt`.
 
 ## Что нового
+
+### 1.0.26 - 2026-10-11
+
+- Пустой список записей подсказывает, как сделать первый протокол: три шага.
+- Приложение стало примерно в три раза легче и правильно отображается на Android 15.
+- Исправлены ошибки.
 
 ### 1.0.23 - 2026-09-23
 
